@@ -1,0 +1,32 @@
+1. disini kita login sebagi pelanggan dulu
+	karena pelanggan sudah terdaftar, maka langsung login aja
+
+2. kemudian pilih order laundry, pilih karyawan, pilih jenis laundry yang mana
+3. ketika sudah dipilih langsung aja klik tombol order laundry
+4. kemudian lihat status laundry di oderan anda
+5. kemudian kita harus login sebagai petugas penjemput
+	kita buka browser ke dua saja dari pada logout dan terus masuk lagi
+	langsung aja login sebagai petugas jemput laundry
+
+6. langsung klik oderan
+7. petugas jemput hanya bisa mengubah status laundry menjadi dijemput
+8. kemudian lihat dasboard pelanggan
+9. kemudian login sebagai admin, disini kita log out aja sebagai petugas jemput
+10. langsung aja login sebagai admin
+11. kemudian langsung klik order
+12. ketika petugas jemput melapor laundry yang jemputnya sudah ditoko maka admin hanya bisa mengubah status laundry menjadi load laundry artinya masih pendding
+	walaupun admin bisa mengubahn semuanya tapi karena sistem laundry sudah ada petugas
+	maka sttaus mengubahn laundry terbagi
+13. dan admin pun juga bisa mengirim pesan status laundry ke whatsapp
+14. selanjutnya kita login sebagai petugas pencuci
+	langsung aja login sebagi petugas pencuci
+15. langsung klik order
+16. disini petugas pencuci bisa mengubah status laundry dengan 3 kali ubahn status laundry
+17. ketika proses laundry sudah selesai maka petugas pencuci ubah menjadi selesai
+18. disini kita login sebagai petugas pengantaran laundry
+19. langsung aja kita login sebagai petugas pengantar laundry
+20. langsung aja klik order
+21. kita pilih status laundry diantar
+22. kemudian pilih selsai diantar ketika petugas antar sudah mengantar laundry dirumah pelanggan
+23. ketika laundry sudah diantar maka pelanggan harus mengkonfirmasi laundry untuk meningkatkan rating pada toko laundry sepatu
+24. oke dengan begini proses sistem laundry sepatu sudah selesai 
